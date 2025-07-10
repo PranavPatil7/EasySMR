@@ -1,0 +1,16 @@
+*credentials
+*.ipynb_checkpoints/
+*.DS_Store
+.idea/
+.python-version
+*.csv
+build/
+easy_sm.egg-info/
+misc/
+*.whl
+*.tar.gz
+app-easy-smr/
+app-easy-smr.json
+base-requirements.txt
+*__pycache__/
+easy_smr.egg-info/
